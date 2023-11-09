@@ -1,4 +1,7 @@
 # Python_study
+Python Django入門 (2) Win編
+https://qiita.com/kaki_k/items/1fff7fefcf26dc4b69bc
+
 【Python】QRコードをローカル処理で作成するコード
 https://blog.nyanco.me/python-generate-qr-code/
 
