@@ -1,4 +1,7 @@
 # Python_study
+【Python】QRコードをローカル処理で作成するコード
+https://blog.nyanco.me/python-generate-qr-code/
+
 pythonでローカルwebサーバを立ち上げる
 https://qiita.com/okhrn/items/4d3c74563154f191ba16
 
