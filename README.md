@@ -1,4 +1,6 @@
 # Python_study
+pythonでローカルwebサーバを立ち上げる
+https://qiita.com/okhrn/items/4d3c74563154f191ba16
 
 https://paiza.io/ja
 
