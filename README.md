@@ -1,4 +1,4 @@
-# Python_study
+# node.js postman
 Python Django入門 (2) Win編
 https://qiita.com/kaki_k/items/1fff7fefcf26dc4b69bc
 
