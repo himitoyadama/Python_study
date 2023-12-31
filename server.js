@@ -7,7 +7,7 @@ const foodRouter = require("./routes/foodRoutes");
 app.use(foodRouter);
 /*データベース接続*/ 
 mongoose
-.connect("mongodb+srv://password:fuck@cluster0.3z7xw0b.mongodb.net/food?retryWrites=true&w=majority")
+.connect("mongodb+srv://password:fuck@cluster0b.mongodb.net/food?retryWrites=true&w=majority")
 .then(() => console.log("データベース接続に成功しました"))
 .catch((err) => console.log(err))
 
