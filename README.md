@@ -1,4 +1,7 @@
 # node.js postman
+Node.js × MongoDBで簡易掲示板を作ってフルスタックプロジェクトを体験してみよう
+https://m.youtube.com/watch?v=DcGHrM7fdPw
+
 【MongoDB入門】Node.jsと連携して簡単なWebAPIを作ってみよう
 https://www.youtube.com/watch?v=JBCykXLfvv0
 
