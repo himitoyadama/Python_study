@@ -1,4 +1,6 @@
 # node.js 
+【webpack入門】Webアプリ開発を高速・快適にするバンドラwebpackの使い方！ 
+https://m.youtube.com/watch?v=CV0mTZNoLXQ
 
 webpack 
 https://webpack.js.org/guides/getting-started/
