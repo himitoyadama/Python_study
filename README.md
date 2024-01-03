@@ -1,4 +1,8 @@
 # node.js 
+最新版で学ぶwebpack 5入門
+JavaScriptのモジュールバンドラ
+https://ics.media/entry/12140/
+
 webpack is 何?
 https://zenn.dev/sprout2000/articles/9d026d3d9e0e8f
 
