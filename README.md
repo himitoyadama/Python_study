@@ -2,6 +2,9 @@
 JavaScriptの「基礎」が1時間で分かる「超」入門講座【初心者向け】
 https://www.youtube.com/watch?v=E08jeQBa1D0
 
+【超入門】初心者でも安心！JavaScript学習入門（前編）データに関する基礎知識【Webデザイン・プログラミング】
+https://www.youtube.com/watch?v=7wEuRdsnBs4
+
 【webpack入門】Webアプリ開発を高速・快適にするバンドラwebpackの使い方！ 
 https://m.youtube.com/watch?v=CV0mTZNoLXQ
 
