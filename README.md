@@ -1,4 +1,7 @@
 # JavaScript
+JavaScript Full Course - Beginner to Pro - Part 1
+https://m.youtube.com/watch?v=SBmSRK3feww
+
 JavaScriptの「基礎」が1時間で分かる「超」入門講座【初心者向け】
 https://www.youtube.com/watch?v=E08jeQBa1D0
 
